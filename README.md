@@ -2,5 +2,6 @@
 
 ## Code Structure
 /src: environment installation and inference code.
+Model Weight: [HF](https://huggingface.co/easonqin/CardiacMind)
 
 Contact: yqinar@connect.ust.hk
